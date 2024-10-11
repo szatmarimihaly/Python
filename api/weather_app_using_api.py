@@ -20,9 +20,7 @@ def display_menu():
 
 def ask_city():
     return input("Enter City: ")
-
-#display_menu()
-#enter = input('Enter your choice:')
+    
 
 def main():
     city = ask_city()
